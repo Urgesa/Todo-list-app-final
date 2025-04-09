@@ -1,2 +1,2 @@
 # Todo-list-app-final
-This is Mlmy final project todo-list-app project 
+This is my final project todo-list-app project 
